@@ -1,0 +1,8 @@
+{
+  "routes": [
+    "/dashboard",
+    "/tasks",
+    "/tasks/create",
+    "/users"
+  ]
+}

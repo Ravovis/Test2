@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7dU3xL8dT8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ravov\\source\\repos\\Test2\\back\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ravov\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\ravov\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
