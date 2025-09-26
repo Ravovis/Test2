@@ -51,3 +51,6 @@ npm run build
 
 ## License
 For interview usage.
+
+
+By default website should be at http://localhost:4200/dashboard when running
